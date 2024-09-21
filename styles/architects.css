@@ -179,6 +179,22 @@ width: 100%;
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+/* footer styles */
+.footer-title{
+    text-align: center;
+    background-color: #FFF4E7;
+    border-radius: 8px;
+    font-size: 1.25rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.all-footer{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+ 
+}
 /* responsive media query */
 @media screen and (max-width:576px) {
     .navbar,
